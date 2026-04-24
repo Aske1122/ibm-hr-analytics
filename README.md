@@ -5,6 +5,10 @@
 This project analyzes employee attrition using the IBM HR Analytics dataset.
 The goal is to identify patterns and factors associated with employees leaving the company.
 
+## Tableau 
+
+https://public.tableau.com/app/profile/aske.luther.hermansen/viz/Attrition_17770267285360/Dashboard1?publish=yes
+
 ## Dataset
 
 The dataset contains information on 1470 employees and 35 variables, including:
